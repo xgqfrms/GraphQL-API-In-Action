@@ -1,0 +1,36 @@
+{
+  "name": "graphql-api-in-action",
+  "version": "1.0.1",
+  "description": "GraphQL API In Action",
+  "main": "src/index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xgqfrms/GraphQL-API-In-Action.git"
+  },
+  "keywords": [
+    "GraphQL",
+    "API",
+    "In",
+    "Action"
+  ],
+  "author": "xgqfrms",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xgqfrms/GraphQL-API-In-Action/issues"
+  },
+  "homepage": "https://github.com/xgqfrms/GraphQL-API-In-Action#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0"
+  },
+  "devDependencies": {
+    "jest": "^26.4.2"
+  }
+}
