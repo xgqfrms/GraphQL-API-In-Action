@@ -85,5 +85,8 @@
   "peacock.color": "#00b3e6",
   "editor.codeActionsOnSave": {
     "source.fixAll.eslint": true
-  }
+  },
+  "cSpell.words": [
+    "monit"
+  ]
 }
